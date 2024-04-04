@@ -94,4 +94,4 @@ We hereby recommend reading [VINS-Fusion](https://github.com/HKUST-Aerial-Roboti
 ## License
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 
-We are constantly working on improving our code. For any technical issues or commercial use, please contact Kailai Li < kailai.li@kit.edu > with Intelligent Sensor-Actuator-Systems Lab ([ISAS](https://isas.iar.kit.edu/)), Karlsruhe Institute of Technology ([KIT](http://www.kit.edu/english/index.php)).
+We are constantly working on improving our code. For any technical issues, please contact Kailai Li < kailai.li@rug.nl >.
